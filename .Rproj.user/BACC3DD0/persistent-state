@@ -1,0 +1,8 @@
+build-last-errors="[]"
+build-last-errors-base-dir=""
+build-last-outputs="[{\"type\":0,\"output\":\"==> rmarkdown::render_site(encoding = 'UTF-8')\\n\\n\"},{\"type\":2,\"output\":\"Warning: You are recommended to ignore certain files in config.toml: set the option ignoreFiles = [\\\"\\\\\\\\.Rmd$\\\", \\\"\\\\\\\\.Rmarkdown$\\\", \\\"_files$\\\", \\\"_cache$\\\"]\\r\\nRendering content/blog/2015-07-23-r-rmarkdown.Rmd\\r\\n\"},{\"type\":2,\"output\":\"Rendering content/blog/hello.Rmd\\r\\n\"},{\"type\":1,\"output\":\"Building sites … \"},{\"type\":1,\"output\":\"\\n                   | EN  \\n-------------------+-----\\n  Pages            | 34  \\n  Paginator pages  |  2  \\n  Non-page files   |  2  \\n  Static files     | 51  \\n  Processed images |  0  \\n  Aliases          |  2  \\n  Sitemaps         |  1  \\n  Cleaned          |  0  \\n\\nTotal in 119 ms\\n\"},{\"type\":2,\"output\":\"\\r\\nOutput created: public/index.html\\r\\n\"}]"
+compile_pdf_state="{\"tab_visible\":false,\"running\":false,\"target_file\":\"\",\"output\":\"\",\"errors\":[]}"
+files.monitored-path=""
+find-in-files-state="{\"handle\":\"\",\"input\":\"\",\"path\":\"\",\"regex\":false,\"ignoreCase\":false,\"results\":{\"file\":[],\"line\":[],\"lineValue\":[],\"matchOn\":[],\"matchOff\":[],\"replaceMatchOn\":[],\"replaceMatchOff\":[]},\"running\":false,\"replace\":false,\"preview\":false,\"gitFlag\":false,\"replacePattern\":\"\"}"
+imageDirtyState="1"
+saveActionState="-1"
